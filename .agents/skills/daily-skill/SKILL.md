@@ -1,10 +1,10 @@
 ---
-name: yongfei-hu-skill
+name: daily-skill
 description: >-
   个人自用 skill。定义了开发沟通中的口头汇报表达规范，以及用户的全局指令规范（如精准整改、指令缩写响应、Playwright 浏览器配置、ELI5 图解与实施后风险提示等）。
 ---
 
-# yongfei-hu-skill (个人自用)
+# daily-skill (个人自用)
 
 > **说明**：本 Skill 属于个人自用配置，用于规范日常开发沟通、汇报表达方式及全局操作指令。
 

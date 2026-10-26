@@ -1,4 +1,4 @@
-# yongfei-hu-skill
+# daily-skill
 
 > **说明**：个人自用 Skill（Personal Use Only）
 
